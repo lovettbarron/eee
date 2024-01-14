@@ -3,6 +3,7 @@ Various norns scripts (Norns, crows, JustFriends)
 
 ### murder-plaits
 Meant to be used with Mutable Plaits module.
+```
 Crows to Plaits:
 output 1 = 1v/oct
 output 2 = gate
@@ -13,3 +14,4 @@ K2 randomize Env1
 K3 randomize Env1
 E2 Env1 variablilty
 E3 Env2 variability
+```
